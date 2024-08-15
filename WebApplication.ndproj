@@ -13,7 +13,7 @@
   <Dirs />
   <MergeCodeGeneratedByCompiler>True</MergeCodeGeneratedByCompiler>
   <ZipSourceFiles>True</ZipSourceFiles>
-  <Report Kind="0" SectionsEnabled="110591" XslPath="" Flags="4455424" NbItemsToUnfold="3" NbItemsPerRule="20" MaxNbSourceFiles="2000" />
+  <Report Kind="0" SectionsEnabled="131071" XslPath="" Flags="38009856" NbItemsToUnfold="3" NbItemsPerRule="20" MaxNbSourceFiles="2000" />
   <BuildComparisonSetting ProjectMode="CurrentProject" BuildMode="NDaysAgoAnalysisResult" ProjectFileToCompareWith="" BuildFileToCompareWith="" NDaysAgo="30" />
   <BaselineInUISetting ProjectMode="CurrentProject" BuildMode="NDaysAgoAnalysisResult" ProjectFileToCompareWith="" BuildFileToCompareWith="" NDaysAgo="30" />
   <CoverageFiles CoverageDir="" CoverageDirFilter="" UncoverableAttribute="" CoverageExclusionFile="" />
@@ -68,8 +68,8 @@
       <Currency>USD</Currency>
       <CurrencyLocation>After</CurrencyLocation>
       <EstimatedNumberOfManDayToDevelop1000LogicalLinesOfCode>18</EstimatedNumberOfManDayToDevelop1000LogicalLinesOfCode>
-      <NumberOfWorkDayPerYear>240</NumberOfWorkDayPerYear>
-      <NumberOfWorkHourPerDay>8</NumberOfWorkHourPerDay>
+      <NumberOfWorkDayPerYear>100</NumberOfWorkDayPerYear>
+      <NumberOfWorkHourPerDay>5</NumberOfWorkHourPerDay>
       <A2B_RatingThreshold>5</A2B_RatingThreshold>
       <B2C_RatingThreshold>10</B2C_RatingThreshold>
       <C2D_RatingThreshold>20</C2D_RatingThreshold>
